@@ -1,3 +1,3 @@
 _G.HWID = {
-    "12",
+    "IXJ4-GTMD-VMA2-ZEHF",
 }
