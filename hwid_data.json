@@ -22,7 +22,11 @@
             ]
         },
         "715417764768251915": {
-            "key": "5NIL-MO1W-J9OB-KXFC"
+            "key": "5NIL-MO1W-J9OB-KXFC",
+            "hwids": [
+                "323DAB86-F7BD-4D47-A8D8-C32BF432DD33"
+            ],
+            "max_hwids": 2
         }
     }
 }
