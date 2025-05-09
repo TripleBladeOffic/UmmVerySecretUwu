@@ -15,7 +15,14 @@
         },
         "1120686564939411476": {
             "key": "IXJ4-GTMD-VMA2-ZEHF",
-            "max_hwids": 3
+            "max_hwids": 3,
+            "hwids": [
+                "FE410D32-022B-464D-AECB-733783CD9921",
+                "9c218ae1-26e3-4fe7-9eae-b1580b8708cc"
+            ]
+        },
+        "715417764768251915": {
+            "key": "5NIL-MO1W-J9OB-KXFC"
         }
     }
 }
