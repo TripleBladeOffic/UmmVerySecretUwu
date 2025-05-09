@@ -5,7 +5,14 @@
             "hwids": []
         },
         "1139556528530133102": {
-            "key": "H7N4-6SU1-KQB2-9P0C"
+            "key": "H7N4-6SU1-KQB2-9P0C",
+            "hwids": [
+                "12"
+            ],
+            "max_hwids": 1
+        },
+        "1120686564939411476": {
+            "key": "IXJ4-GTMD-VMA2-ZEHF"
         }
     }
 }
