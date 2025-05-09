@@ -18,7 +18,8 @@
             "max_hwids": 3,
             "hwids": [
                 "FE410D32-022B-464D-AECB-733783CD9921",
-                "9c218ae1-26e3-4fe7-9eae-b1580b8708cc"
+                "9c218ae1-26e3-4fe7-9eae-b1580b8708cc",
+                "7242de88-d9e4-4374-bf1b-d0f033aab75a"
             ]
         },
         "715417764768251915": {
@@ -29,7 +30,14 @@
             "max_hwids": 2
         },
         "1299416233778610207": {
-            "key": "I9W7-D07U-6QQL-EAFF"
+            "key": "I9W7-D07U-6QQL-EAFF",
+            "hwids": [
+                "6DAE44FB-6F5D-4228-9AFF-D1CB0DA949BE"
+            ],
+            "max_hwids": 1
+        },
+        "539573262309392384": {
+            "key": "5K8M-TK13-FVJG-0FQT"
         }
     }
 }
