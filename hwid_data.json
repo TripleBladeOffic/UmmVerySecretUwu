@@ -7,12 +7,15 @@
         "1139556528530133102": {
             "key": "H7N4-6SU1-KQB2-9P0C",
             "hwids": [
-                "IXJ4-GTMD-VMA2-ZEHF"
+                "IXJ4-GTMD-VMA2-ZEHF",
+                "65745B7A-862E-4202-B430-89BC8D013712",
+                "3"
             ],
             "max_hwids": 99
         },
         "1120686564939411476": {
-            "key": "IXJ4-GTMD-VMA2-ZEHF"
+            "key": "IXJ4-GTMD-VMA2-ZEHF",
+            "max_hwids": 3
         }
     }
 }
