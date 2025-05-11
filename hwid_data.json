@@ -7,9 +7,7 @@
         "1139556528530133102": {
             "key": "H7N4-6SU1-KQB2-9P0C",
             "hwids": [
-                "IXJ4-GTMD-VMA2-ZEHF",
-                "65745B7A-862E-4202-B430-89BC8D013712",
-                "3"
+                "E5142D0D-0839-4910-BC5D-9A7DCF7B0481"
             ],
             "max_hwids": 99
         },
@@ -46,12 +44,16 @@
         "1114998702537457766": {
             "key": "GKX4-OI78-RZHQ-XYA8",
             "hwids": [
-                "58D038FE-0F19-4A37-89E4-C2168F74327F"
+                "4A6F24F2-236C-4482-8938-56AD18FF6905"
             ],
-            "max_hwids": 1
+            "max_hwids": 6
         },
         "1309888643988721707": {
-            "key": "5EBO-11HK-MGHV-2IY9"
+            "key": "5EBO-11HK-MGHV-2IY9",
+            "hwids": [
+                "C761E515-9F6E-4F7F-8331-86A637CA5573"
+            ],
+            "max_hwids": 1
         }
     }
 }
